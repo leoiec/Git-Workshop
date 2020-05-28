@@ -1,0 +1,13 @@
+ O volume na unidade C ‚ Windows
+ O N£mero de S‚rie do Volume ‚ 649D-8F23
+
+ Pasta de C:\Users\bortojh\GIT\workshop
+
+28/05/2020  14:03    <DIR>          .
+28/05/2020  14:03    <DIR>          ..
+28/05/2020  13:59    <DIR>          developers
+28/05/2020  13:59             1,111 LICENSE
+28/05/2020  13:59               692 README.md
+28/05/2020  14:08                 0 teste.txt
+               3 arquivo(s)          1,803 bytes
+               3 pasta(s)   103,601,455,104 bytes dispon¡veis
